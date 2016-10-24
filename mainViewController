@@ -93,42 +93,42 @@ class ViewController: UIViewController {
         btn01Sound.play()
     }
     
-    //Button2_Fart02
+    //Button2_sound02
     @IBAction func audio02Button(sender: UIButton) {
         btn02Sound.play()
     }
    
-    //Button3_Fart03
+    //Button3_sound03
     @IBAction func audio03Button(sender: UIButton) {
         btn03Sound.play()
     }
     
-    //Button3_Fart04
+    //Button3_sound04
     @IBAction func audio04Button(sender: UIButton) {
         btn04Sound.play()
     }
     
-    //Button3_Fart05
+    //Button3_sound05
     @IBAction func audio05Button(sender: UIButton) {
         btn05Sound.play()
     }
     
-    //Button3_Fart06
+    //Button3_sound06
     @IBAction func audio06Button(sender: UIButton) {
         btn06Sound.play()
     }
     
-    //Button3_Fart07
+    //Button3_sound07
     @IBAction func audio07Button(sender: UIButton) {
         btn07Sound.play()
     }
     
-    //Button3_Fart08
+    //Button3_sound08
     @IBAction func audio08Button(sender: UIButton) {
         btn08Sound.play()
     }
     
-    //Button3_Fart09
+    //Button3_sound09
     @IBAction func audio09Button(sender: UIButton) {
         btn09Sound.play()
     }
